@@ -2,7 +2,7 @@
 
 Elige Tu Escuela permite a padres de familia visualizar perfiles e 
 información de escuelas públicas para elegir la adecuada a las necesidades 
-de sus hijos y de la familia, facilitando su preinscripción en línea.
+de sus hijos y de la familia, facilitando su preinscripción en líneadddd.
 
 [Wiki](https://github.com/CodeandoMexico/EligeTuEscuela/wiki) |
 [Bugtracker](https://github.com/CodeandoMexico/EligeTuEscuela/issues) |
