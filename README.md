@@ -1,4 +1,4 @@
-## Elige Tu Escuela
+## Elige Tu Escuela GT
 
 Elige Tu Escuela permite a padres de familia visualizar perfiles e 
 información de escuelas públicas para elegir la adecuada a las necesidades 
